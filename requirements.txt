@@ -1,0 +1,6 @@
+pickle
+pandas
+seaborn
+streamlit
+numpy
+scikit-learn
